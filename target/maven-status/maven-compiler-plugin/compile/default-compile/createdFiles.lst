@@ -1,0 +1,8 @@
+org\example\base\BasePageObject.class
+org\example\pages\MathPage.class
+org\example\driver\AndroidDriverInit.class
+org\example\pages\LoginPage.class
+org\example\properties\PropertiesReader.class
+org\example\pages\NavigationMenu.class
+org\example\pages\ListPage.class
+org\example\properties\PropertiesData.class

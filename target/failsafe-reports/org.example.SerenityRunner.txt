@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.SerenityRunner
+-------------------------------------------------------------------------------
+Tests run: 66, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 253.121 sec - in org.example.SerenityRunner

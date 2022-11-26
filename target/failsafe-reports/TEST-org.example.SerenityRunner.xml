@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.SerenityRunner" time="253.121" tests="66" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_341\jre\bin"/>
+    <property name="java.vm.version" value="25.341-b10"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Learn QA Engineer\Mobile Automation Testing\01Project\SampleCalculatorDroidAppium"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="ID"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Learn QA Engineer\Mobile Automation Testing\01Project\SampleCalculatorDroidAppium"/>
+    <property name="java.runtime.version" value="1.8.0_341-b10"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_341\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\IDBALI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.8.6\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_341\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Borland\Delphi7\Bin;C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_341\bin;C:\Program Files\apache-maven-3.8.6\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\idbaliyah\AppData\Local\Android\Sdk\platform-tools;C:\Users\idbaliyah\AppData\Local\Android\Sdk\tools;C:\Users\idbaliyah\AppData\Local\Android\Sdk\tools\bin;C:\Users\idbaliyah\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\idbaliyah\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.8.6/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.8.6\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\idbaliyah"/>
+    <property name="user.timezone" value="Asia/Bangkok"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="idbaliyah"/>
+    <property name="java.class.path" value="C:\Program Files\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_341\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean verify"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_341"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_341\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_341\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_341\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_341\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.8.6"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="user is on login page" classname="Long press on list menu" time="0.087"/>
+  <testcase name="user input username &quot;admin&quot;" classname="Long press on list menu" time="1.432"/>
+  <testcase name="user input password &quot;admin&quot;" classname="Long press on list menu" time="1.367"/>
+  <testcase name="user click button login" classname="Long press on list menu" time="0.824"/>
+  <testcase name="user click navigation menu and click list menu" classname="Long press on list menu" time="2.109"/>
+  <testcase name="user doing long press on list menu" classname="Long press on list menu" time="7.942"/>
+  <testcase name="Long press on list menu" classname="Long press on list menu" time="9.966"/>
+  <testcase name="user is on login page" classname="Multiple times on list menu" time="0.002"/>
+  <testcase name="user input username &quot;admin&quot;" classname="Multiple times on list menu" time="0.791"/>
+  <testcase name="user input password &quot;admin&quot;" classname="Multiple times on list menu" time="1.36"/>
+  <testcase name="user click button login" classname="Multiple times on list menu" time="0.182"/>
+  <testcase name="user click navigation menu and click list menu" classname="Multiple times on list menu" time="2.708"/>
+  <testcase name="user doing multiple times on list menu" classname="Multiple times on list menu" time="2.379"/>
+  <testcase name="Multiple times on list menu" classname="Multiple times on list menu" time="4.178"/>
+  <testcase name="user is on login page" classname="Verify user successfully login when input valid email and password" time="0.012"/>
+  <testcase name="user input username &quot;admin&quot;" classname="Verify user successfully login when input valid email and password" time="0.816"/>
+  <testcase name="user input password &quot;admin&quot;" classname="Verify user successfully login when input valid email and password" time="0.81"/>
+  <testcase name="user click button login" classname="Verify user successfully login when input valid email and password" time="0.808"/>
+  <testcase name="user successfully login" classname="Verify user successfully login when input valid email and password" time="0"/>
+  <testcase name="Verify user successfully login when input valid email and password" classname="Verify user successfully login when input valid email and password" time="2.053"/>
+  <testcase name="user is on login page" classname="User perform operator addition" time="0.006"/>
+  <testcase name="user input username &quot;admin&quot;" classname="User perform operator addition" time="1.381"/>
+  <testcase name="user input password &quot;admin&quot;" classname="User perform operator addition" time="0.829"/>
+  <testcase name="user click button login" classname="User perform operator addition" time="0.799"/>
+  <testcase name="user input number1 5" classname="User perform operator addition" time="1.633"/>
+  <testcase name="user input number2 3" classname="User perform operator addition" time="0.665"/>
+  <testcase name="user select operators addition" classname="User perform operator addition" time="1.852"/>
+  <testcase name="user click button equals" classname="User perform operator addition" time="0.141"/>
+  <testcase name="Results showing addition calculations" classname="User perform operator addition" time="0.076"/>
+  <testcase name="User perform operator addition" classname="User perform operator addition" time="1.72"/>
+  <testcase name="user is on login page" classname="User perform operator subtraction" time="0.007"/>
+  <testcase name="user input username &quot;admin&quot;" classname="User perform operator subtraction" time="1.505"/>
+  <testcase name="user input password &quot;admin&quot;" classname="User perform operator subtraction" time="0.765"/>
+  <testcase name="user click button login" classname="User perform operator subtraction" time="0.149"/>
+  <testcase name="user input number1 40" classname="User perform operator subtraction" time="2.201"/>
+  <testcase name="user input number2 20" classname="User perform operator subtraction" time="1.16"/>
+  <testcase name="user select operators subtraction" classname="User perform operator subtraction" time="1.91"/>
+  <testcase name="user click button equals" classname="User perform operator subtraction" time="0.163"/>
+  <testcase name="Results showing subtraction calculations" classname="User perform operator subtraction" time="0.067"/>
+  <testcase name="User perform operator subtraction" classname="User perform operator subtraction" time="1.685"/>
+  <testcase name="user is on login page" classname="User perform operator division" time="0.006"/>
+  <testcase name="user input username &quot;admin&quot;" classname="User perform operator division" time="1.424"/>
+  <testcase name="user input password &quot;admin&quot;" classname="User perform operator division" time="1.346"/>
+  <testcase name="user click button login" classname="User perform operator division" time="0.192"/>
+  <testcase name="user input number1 50" classname="User perform operator division" time="1.931"/>
+  <testcase name="user input number2 4" classname="User perform operator division" time="1.131"/>
+  <testcase name="user select operators division" classname="User perform operator division" time="2.043"/>
+  <testcase name="user click button equals" classname="User perform operator division" time="0.135"/>
+  <testcase name="Results showing division calculations" classname="User perform operator division" time="0.082"/>
+  <testcase name="User perform operator division" classname="User perform operator division" time="1.525"/>
+  <testcase name="user is on login page" classname="User perform operator multiplication" time="0.007"/>
+  <testcase name="user input username &quot;admin&quot;" classname="User perform operator multiplication" time="0.79"/>
+  <testcase name="user input password &quot;admin&quot;" classname="User perform operator multiplication" time="0.812"/>
+  <testcase name="user click button login" classname="User perform operator multiplication" time="0.182"/>
+  <testcase name="user input number1 6" classname="User perform operator multiplication" time="2.519"/>
+  <testcase name="user input number2 9" classname="User perform operator multiplication" time="0.718"/>
+  <testcase name="user select operators multiplication" classname="User perform operator multiplication" time="2.025"/>
+  <testcase name="user click button equals" classname="User perform operator multiplication" time="0.14"/>
+  <testcase name="Results showing multiplication calculations" classname="User perform operator multiplication" time="0.084"/>
+  <testcase name="User perform operator multiplication" classname="User perform operator multiplication" time="1.754"/>
+  <testcase name="user is on login page" classname="Verify navigation menu after user success login" time="0.007"/>
+  <testcase name="user input username &quot;admin&quot;" classname="Verify navigation menu after user success login" time="0.85"/>
+  <testcase name="user input password &quot;admin&quot;" classname="Verify navigation menu after user success login" time="1.368"/>
+  <testcase name="user click button login" classname="Verify navigation menu after user success login" time="0.153"/>
+  <testcase name="user click navigation menu" classname="Verify navigation menu after user success login" time="4.812"/>
+  <testcase name="Verify navigation menu after user success login" classname="Verify navigation menu after user success login" time="6.708"/>
+</testsuite>
